@@ -252,6 +252,13 @@ section{
 
 }
 
+form {
+
+    margin: 0 auto;
+    width: 400px;
+  }
+  
+
 .contacto-img img{
     color: #FFF;
     width: 300px;
